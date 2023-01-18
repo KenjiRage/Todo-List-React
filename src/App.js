@@ -1,4 +1,4 @@
-import React, {userEffect} { useState } from "react";
+import React, { useState } from "react";
 
 function App() {
   const [list, setList] = useState([]);
