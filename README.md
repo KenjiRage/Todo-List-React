@@ -6,5 +6,5 @@ Proyecto realizado para 4Geeks Academy España, como parte del curso Full Stack 
 
 ## Vista Previa
 
-![todo-list](https://pc-nexus.net/diplomas/todo.gif)
+![todo-list](https://storage.googleapis.com/breathecode-asset-images/612422477295f576c511dae22238b7f142bf8ab71537cd23fa180a900d22f7d6.gif)
 
